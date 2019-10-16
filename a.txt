@@ -1,6 +1,6 @@
 Creating a branch is quick & simple.
 Git is a version control system
-Git is free softmware distributed under the GPL.
+Git is a free softmware distributed under the GPL.
 Git has a mutable index called stage.
 Git tracks changes.
 add merge.
