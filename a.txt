@@ -4,3 +4,4 @@ Git is a free softmware distributed under the GPL.
 Git has a mutable index called stage.
 Git tracks changes.
 add merge.
+change repo.
